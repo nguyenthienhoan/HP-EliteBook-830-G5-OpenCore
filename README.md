@@ -70,44 +70,76 @@ Configure your BIOS settings as follows:
 #### Advanced Settings
 
 **Boot Options:**
-- Startup Menu Delay: `0`
-- Fast Boot: `Disabled`
-- CD-ROM Boot: `Disabled`
-- USB Storage Boot: `Enabled`
-- Network (PXE) Boot: `Disabled`
-- UEFI Boot Order: `Enabled`
-- Legacy Boot Order: `Enabled`
+- Startup Menu Delay(sec.) = `0`
+- Fast Boot: `uncheck`
+- CD-ROM Boot: `uncheck`
+- USB Storage Boot: `checked`
+- Network (PXE) Boot: `unchecked`
+- Power On When AC Detected: `unchecked`
+- Power On When Lid is Opened: `unchecked`
+- Prompt on Battery Errors: `checked`
+- Prompt of Memory Size Change: `checked`
+- Prompt on Fixed Storage Change: `checked`
+- Audio Alerts During Boot: `checked`
+- NumLock on at Boot: `unchecked`
+- UEFI Boot Order: `checked`
+- Legacy Boot Order: `checked`
 
 **Secure Boot Configuration:**
-- Legacy Support: `Disabled`
-- Secure Boot: `Disabled`
+- Configure Legacy Support and Secure Boot = `Legacy Support Disable and Secure Boot Disable`
 
 **System Options:**
-- Turbo Boost: `Enabled`
-- Hyperthreading: `Enabled`
-- Multi-processor: `Enabled`
-- Virtualization Technology (VTx): `Enabled`
-- Virtualization Technology for Directed I/O (VTd): `Enabled`
+- Turbo Boost: `checked`
+- Hyperthreading: `checked`
+- Multi-processor: `checked`
+- Virtualization Technology (VTx): `checked`
+- Virtualization Technology for Directed I/O (VTd): `checked`
+- Swap Fn and Ctrl (keys): `unchecked`
+- Launch Hotkeys without Fn Keypress: `unchecked`
+- Enable Turbo Boost on DC: `unchecked`
 
 **Built-In Device Options:**
-- Video Memory Size: `64MB`
-- Audio Device: `Enabled`
-- Wireless Network Device (WLAN): `Enabled`
-- Bluetooth: `Enabled`
-- Integrated Camera: `Enabled`
-- Fingerprint Device: `Disabled`
-- NFC: `Enabled`
+- Embedded LAN Controller: `checked`
+- Wake on LAN: `disabled`
+- Video memory size: `64MB`
+- Audio Device: `checked`
+- Integrated Microphone: `checked`
+- Internal Speakers: `checked`
+- Lock Wireless Button: `unchecked`
+- Wireless Network Device (WLAN): `checked`
+- Bluetooth: `checked`
+- LAN / WLAN Auto Switching: `disabled`
+- Fan Always on while on AC Power: `unchecked`
+- Fan Quiet Mode: `unchecked`
+- Backlit keyboard timeout: `10 sec.`
+- Integrated Camera: `checked`
+- Fingerprint Device: `unchecked`
+- NFC: `checked`
 
 **Port Options:**
-- All USB Ports: `Enabled`
-- Media Card Reader: `Enabled`
+- Left USB Ports: `checked`
+- Right USB Ports: `checked`
+- Right USB Port1: `checked`
+- Right USB Port2: `checked`
+- USB Charging Port Function: `checked`
+- Disable Charging Port in sleep/off if battery below (%): `10`
+- Media Card Reader: `checked`
+- Smart Card: `unchecked`
+- Smart Card Power Savings: `unchecked`
+- M2 SSD1: `checked`
+- SATA1: `checked`
 - Restrict USB Devices: `Allow all USB Devices`
 
-**Power Management:**
-- Runtime Power Management: `Enabled`
-- Extended Idle Power States: `Enabled`
-- Deep Sleep: `Enabled`
-- Wake when Lid is Opened: `Enabled`
+**Option ROM Launch Policy:**
+- Configure Option ROM Launch Policy: `All Legacy`
+
+**Power Management Options:**
+- Runtime Power Management: `checked`
+- Extended Idle Power States: `checked`
+- Deep Sleep: `checked`
+- Wake when Lid is Opened: `checked`
+- Wake on USB: `unchecked`
+- Power Control: `unchecked`
 
 </details>
 
