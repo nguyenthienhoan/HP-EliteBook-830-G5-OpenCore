@@ -40,7 +40,6 @@ A complete OpenCore EFI configuration for HP EliteBook 830 G5 laptop running mac
 - ✅ **Keyboard**: Backlit keyboard with function keys
 - ✅ **Sleep/Wake**: Proper sleep and wake functionality
 - ✅ **Battery**: Battery status and power management
-- ✅ **Camera**: Built-in webcam
 - ✅ **Ethernet**: Wired network connection
 - ✅ **SD Card Reader**: Media card reader
 - ✅ **NFC**: Near Field Communication
