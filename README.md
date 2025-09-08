@@ -1,20 +1,20 @@
 # HP EliteBook 830 G5 - OpenCore EFI
 
-[![macOS](https://img.shields.io/badge/macOS-Sonoma%2014.x-blue.svg)](https://www.apple.com/macos/)
+[![macOS](https://img.shields.io/badge/macOS-Ventura%2013.x-blue.svg)](https://www.apple.com/macos/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.x-green.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Geekbench](https://img.shields.io/badge/Geekbench-Score%20Available-orange.svg)](https://browser.geekbench.com/v6/cpu/5901430)
 
 > **⚠️ Disclaimer**: This is a Hackintosh project. Use at your own risk. Apple does not support macOS on non-Apple hardware.
 
-A complete OpenCore EFI configuration for HP EliteBook 830 G5 laptop running macOS Sonoma 14.x with full hardware support and optimization.
+A complete OpenCore EFI configuration for HP EliteBook 830 G5 laptop running macOS Ventura 13.x with full hardware support and optimization.
 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="Picture/Sonoma.png" width="800" alt="macOS Sonoma Desktop">
-  <img src="Picture/Sonoma 2.png" width="800" alt="System Information">
-  <img src="Picture/Sonoma 3.png" width="800" alt="Hardware Details">
+  <img src="Picture/Ventura 01.png" width="800" alt="macOS Ventura Desktop">
+  <img src="Picture/Ventura 02.png" width="800" alt="System Information">
+  <img src="Picture/Ventura 03.png" width="800" alt="Hardware Details">
 </div>
 
 ## 💻 Hardware Specifications
@@ -57,7 +57,7 @@ A complete OpenCore EFI configuration for HP EliteBook 830 G5 laptop running mac
 
 - HP EliteBook 830 G5 laptop
 - USB drive (16GB+ recommended)
-- macOS installer (Sonoma 14.x)
+- macOS installer (Ventura 13.x)
 - Basic knowledge of BIOS/UEFI settings
 
 ### Step 1: BIOS Configuration
