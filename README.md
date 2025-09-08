@@ -151,7 +151,7 @@ Configure your BIOS settings as follows:
 
 ### Step 3: Install macOS
 
-1. Boot from the USB installer (press `F12` during boot to select boot device)
+1. Boot from the USB installer (press `F9` during boot to select boot device)
 2. Follow the [installation process](https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html#booting-the-opencore-usb)
 3. After installation, copy the EFI folder to your system's EFI partition
 
