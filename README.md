@@ -22,12 +22,12 @@ A complete OpenCore EFI configuration for HP EliteBook 830 G5 laptop running mac
 | Component | Specification |
 |-----------|---------------|
 | **Model** | [HP EliteBook 830 G5](https://support.hp.com/vn-en/document/c05898590) |
-| **Processor** | Intel® Core™ i5-8350U (8th Gen)<br/>4 Cores / 8 Threads<br/>1.7 GHz Base / 3.6 GHz Turbo<br/>6 MB Cache |
+| **Processor** | [Intel® Core™ i5-8350U](https://www.intel.com/content/www/us/en/products/sku/124969/intel-core-i58350u-processor-6m-cache-up-to-3-60-ghz/specifications.html) (8th Gen)<br/>4 Cores / 8 Threads<br/>1.7 GHz Base / 3.6 GHz Turbo<br/>6 MB Cache |
 | **Graphics** | Intel® UHD Graphics 620 |
-| **Display** | 13.3" Full HD (1920×1080)<br/>120Hz Refresh Rate<br/>16:9 Aspect Ratio |
-| **Storage** | 512 GB M.2 NVMe SSD<br/>WDC PC SN720 (Hackintosh Compatible) |
-| **Memory** | 16 GB DDR4-2400 MHz<br/>Samsung Dual-Channel (8 GB × 2) |
-| **Wireless** | Broadcom BCM94360CS2<br/>WiFi + Bluetooth (Hackintosh Compatible) |
+| **Display** | 13.3" Full HD (1920×1080)<br/>120Hz Refresh Rate<br/>16:9 Aspect Ratio with ColorProfile |
+| **Storage** | 512 GB M.2 NVMe SSD<br/>WDC PC SN720 |
+| **Memory** | 16 GB DDR4-2400 MHz<br/>Samsung Dual-Channel (16 GB × 1) |
+| **Wireless** | Broadcom BCM94360CS2<br/>WiFi + Bluetooth with adapter M2 NGFF |
 
 ## ✅ What's Working
 
@@ -57,7 +57,8 @@ A complete OpenCore EFI configuration for HP EliteBook 830 G5 laptop running mac
 
 - HP EliteBook 830 G5 laptop
 - USB drive (16GB+ recommended)
-- macOS installer (Ventura 13.x)
+- macOS Ventura 13.x -> Stable
+- macOS Sonoma 14.x -> Patch Broadcom with [OCLP newest](https://github.com/dortania/OpenCore-Legacy-Patcher)
 - Basic knowledge of BIOS/UEFI settings
 
 ### Step 1: BIOS Configuration
