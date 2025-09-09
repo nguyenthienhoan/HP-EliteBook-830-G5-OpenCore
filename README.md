@@ -21,7 +21,7 @@ A complete OpenCore EFI configuration for HP EliteBook 830 G5 laptop running mac
 
 | Component | Specification |
 |-----------|---------------|
-| **Model** | [HP EliteBook 830 G5](https://support.hp.com/vn-en/document/c05898590) |
+| **Model** | [HP EliteBook 830 G5](https://support.hp.com/sk-en/product/details/hp-elitebook-830-g5-notebook-pc/18477184) |
 | **Processor** | [Intel® Core™ i5-8350U](https://www.intel.com/content/www/us/en/products/sku/124969/intel-core-i58350u-processor-6m-cache-up-to-3-60-ghz/specifications.html) (8th Gen)<br/>4 Cores / 8 Threads<br/>1.7 GHz Base / 3.6 GHz Turbo<br/>6 MB Cache |
 | **Graphics** | Intel® UHD Graphics 620 |
 | **Display** | 13.3" Full HD (1920×1080)<br/>120Hz Refresh Rate<br/>16:9 Aspect Ratio with ColorProfile |
