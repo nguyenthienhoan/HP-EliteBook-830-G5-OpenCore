@@ -57,9 +57,13 @@ A complete OpenCore EFI configuration for HP EliteBook 830 G5 laptop running mac
 
 - HP EliteBook 830 G5 laptop
 - USB drive (16GB+ recommended)
+- macOS package installer
+- Basic knowledge of BIOS/UEFI settings
+
+### macOS version supports
 - macOS Ventura 13.x -> Stable
 - macOS Sonoma 14.x -> Patch Broadcom with [OCLP newest](https://github.com/dortania/OpenCore-Legacy-Patcher)
-- Basic knowledge of BIOS/UEFI settings
+- macOS Sequoia 15.x -> use folder EFI Sonoma with setting English system language and Patch Broadcom with [OCLP newest](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
 ### Step 1: BIOS Configuration
 
