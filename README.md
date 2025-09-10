@@ -5,7 +5,7 @@
 [![macOS](https://img.shields.io/badge/macOS-Sequoia%2015.x-blue.svg)](https://www.apple.com/macos/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.x-green.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Geekbench](https://img.shields.io/badge/Geekbench-Score%20Available-orange.svg)](https://browser.geekbench.com/v6/cpu/5901430)
+[![Geekbench](https://img.shields.io/badge/Geekbench-Score%20Available-orange.svg)](https://browser.geekbench.com/v6/cpu/13738091)
 
 > **⚠️ Disclaimer**: This is a Hackintosh project. Use at your own risk. Apple does not support macOS on non-Apple hardware.
 
