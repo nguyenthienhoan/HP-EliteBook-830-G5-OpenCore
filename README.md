@@ -1,6 +1,8 @@
 # HP EliteBook 830 G5 - OpenCore EFI
 
 [![macOS](https://img.shields.io/badge/macOS-Ventura%2013.x-blue.svg)](https://www.apple.com/macos/)
+[![macOS](https://img.shields.io/badge/macOS-Sonoma%2014.x-blue.svg)](https://www.apple.com/macos/)
+[![macOS](https://img.shields.io/badge/macOS-Sequoia%2015.x-blue.svg)](https://www.apple.com/macos/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.x-green.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Geekbench](https://img.shields.io/badge/Geekbench-Score%20Available-orange.svg)](https://browser.geekbench.com/v6/cpu/5901430)
