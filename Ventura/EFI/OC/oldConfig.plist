@@ -558,7 +558,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.3 | Global</string>
+                    <string>V1.7.2 | Global</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -612,7 +612,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.9.8 | Audio</string>
+                    <string>V1.9.6 | Audio</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -756,7 +756,7 @@
                     <key>BundlePath</key>
                     <string>VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.7 | Touchpad</string>
+                    <string>V1.1.6 | Touchpad</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
